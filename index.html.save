@@ -97,18 +97,8 @@ Socket.IO and PM2 Process Management.
 </a>
 
 
-<a href="https://barathkavin7.github.io/campusconnect/"
-   target="_blank"
-   class="showcase-btn">
-   Project Showcase
-</a>
 
 
-<a href="#"
-   class="demo-btn"
-   data-project="campus">
-   Demo Credentials
-</a>
 
 
 
@@ -125,7 +115,7 @@ Socket.IO and PM2 Process Management.
 
 
     <div class="card">
-
+nano ~/project/home/index.html
         <div class="project-image">
         <img src="assets/images/restaurantpro.png" alt="restaurant img">
     </div>    
@@ -156,18 +146,6 @@ Socket.IO and PM2 Process Management.
 
 
 
-<a href="https://barathkavin7.github.io/restaurant-erp/"
-   target="_blank"
-   class="showcase-btn">
-   Project Showcase
-</a>
-
-
-<a href="#"
-   class="demo-btn"
-   data-project="restaurant">
-   Demo Credentials
-</a>
 
 
         <a
@@ -212,25 +190,6 @@ Socket.IO and PM2 Process Management.
     <p>Devops Intern</p>
 
 </footer>
-
-
-
-<!-- Demo Credentials Modal -->
-
-<div id="demoModal" class="demo-modal">
-
-    <div class="demo-modal-content">
-
-        <span class="demo-close">&times;</span>
-
-        <h2 id="demoTitle"></h2>
-
-        <div id="demoBody"></div>
-
-    </div>
-
-</div>
-
 
 <script src="js/script.js"></script>
 
