@@ -198,7 +198,7 @@ margin-bottom:15px;
     align-items:center;
     justify-content:center;
 
-    margin-top:auto;
+    margin-top:12px;
 
     padding:14px 24px;
 
@@ -412,7 +412,8 @@ box-shadow:0 30px 80px rgba(0,0,0,.35);
     text-align:center;
 
     padding:14px 24px;
-    margin-bottom:12px;
+    margin-bottom:1px;
+	margin-top:24px;
 
     background:#111827;
     border:1px solid rgba(255,255,255,.12);
@@ -431,5 +432,38 @@ box-shadow:0 30px 80px rgba(0,0,0,.35);
     background:#1f2937;
 }
 
+
+.showcase-btn{
+
+    display:block;
+
+    width:100%;
+
+    margin-top:12px;
+
+    padding:16px;
+
+    border-radius:14px;
+
+    text-align:center;
+
+    text-decoration:none;
+
+    font-weight:700;
+
+    color:#fff;
+
+    background:linear-gradient(135deg,#7c3aed,#4f46e5);
+
+    transition:.3s;
+}
+
+.showcase-btn:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:0 10px 25px rgba(124,58,237,.35);
+
+}
 
 /* ================= Browser Mockup ================= */
